@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+
+
+td{
+width: 5vw;
+border: 1px solid black;
+text-align: center;
+
+}
+.noborder{
+    border: none;
+}
+.headingo{
+
+    background-color: yellow;
+    padding: 5px;
+    font-size: 60px;
+}
+.UMER{
+    font-size:20px ;
+    background-color: rgb(50, 174, 205);
+    font-style: oblique;
+    
+}
+    
